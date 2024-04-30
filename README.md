@@ -46,11 +46,15 @@ también hay emojis. 👍 o :shipit: por ejemplo
 
 >[!NOTE]
 informacuon util que quiero puntualizar
+
 >[!TIP]
 Consejos sobre como interpretar mejor lo que sea mejor
+
 >[!IMPORTANT]
 No hacer ruido
+
 >[!WARNING]
 Para que urko no se enfade
+
 >[!CAUTION]
 >Peligro bellako a la vista
